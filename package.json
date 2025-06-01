@@ -1,0 +1,14 @@
+{
+  "name": "etmw_monthly_paint_jam",
+  "version": "1.0.0",
+  "description": "Choose five poll topics from all ideas to be used for the monthly East Tennessee Miniature Wargaming Discord paint jam topic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "~22.7.6"
+  },
+  "author": "",
+  "license": "ISC"
+}
